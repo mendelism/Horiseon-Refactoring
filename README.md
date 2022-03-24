@@ -25,6 +25,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+
 Deployed URL: https://mendelism.github.io/Week1-Homework/
 
 Github repository: https://github.com/mendelism/Week1-Homework
