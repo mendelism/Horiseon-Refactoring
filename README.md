@@ -29,8 +29,8 @@ THEN I find a concise, descriptive title
 ```
 
 
-[Deployed URL](https://mendelism.github.io/Week1-Homework/)
+[Deployed URL](https://mendelism.github.io/Horiseon-Refactoring/)
 
-[Github repository](https://github.com/mendelism/Week1-Homework)
+[Github repository](https://github.com/mendelism/Horiseon-Refactoring)
 
 [Screenshot](./assets/images/Screenshot.png) 
